@@ -12,10 +12,10 @@ Use `npm start` to start the project.
 
 <img src="https://user-images.githubusercontent.com/98457650/180263763-eca579ee-0b1c-4390-b2cb-942cb7ad6081.png" width="50%" height="50%">
 
-This project makes extensive use of advanced react concepts such as `hooks` and `refs`
-.
+This project makes extensive use of advanced react concepts such as `hooks` and `refs`.
+<br />
 This project fetching data from unlimited sources using **RapidAPI** from [Travel Advisor](https://rapidapi.com/apidojo/api/travel-advisor/) and [Open Weather Map](https://openweathermap.org/)
-
+<br />
 **Material UI** was used to develop the user interface.
 
 
